@@ -1,0 +1,4 @@
+#Sat Jun 02 00:19:19 KST 2018
+base.0=/Users/Sinho/Desktop/sample/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
