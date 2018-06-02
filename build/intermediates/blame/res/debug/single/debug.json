@@ -24,12 +24,12 @@
         "source": "/Users/Sinho/Desktop/sample/src/main/theme/drawable-xxhdpi/thm_main_fab_open.png"
     },
     {
-        "merged": "/Users/Sinho/Desktop/sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_n.png.flat",
-        "source": "/Users/Sinho/Desktop/sample/src/main/theme/drawable-xxhdpi/thm_add_start_n.png"
-    },
-    {
         "merged": "/Users/Sinho/Desktop/sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
         "source": "/Users/Sinho/Desktop/sample/src/main/theme/drawable-xxhdpi/thm_friendlist_friend_status_bubble_bg.9.png"
+    },
+    {
+        "merged": "/Users/Sinho/Desktop/sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_n.png.flat",
+        "source": "/Users/Sinho/Desktop/sample/src/main/theme/drawable-xxhdpi/thm_add_start_n.png"
     },
     {
         "merged": "/Users/Sinho/Desktop/sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_bg.png.flat",

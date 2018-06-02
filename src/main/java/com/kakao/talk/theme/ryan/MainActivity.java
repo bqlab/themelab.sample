@@ -33,6 +33,7 @@ public class MainActivity extends Activity {
             finish();
         } else {
             final Intent intent = new Intent(Intent.ACTION_VIEW);
+            Toast.makeText(this,"적용되는 중이니 잠시만 기다려주세요.",Toast.LENGTH_LONG).show();
             intent.setData(Uri.parse(KAKAOTALK_SETTINGS_THEME_URI + getPackageName()));
             startActivity(intent);
             finish();
