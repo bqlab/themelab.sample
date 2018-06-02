@@ -1,71 +1,71 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:3:5-40
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:2:11-69
 uses-permission#com.kakao.talk.theme.V1
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:5:5-63
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:5:5-63
 	android:name
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:5:22-60
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:5:22-60
 application
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:7:5-22:19
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:7:5-22:19
 	android:label
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:9:9-38
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:9:9-38
 	android:allowBackup
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:8:9-35
 activity#com.kakao.talk.theme.ryan.MainActivity
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:11:9-21:20
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:11:9-21:20
 	android:screenOrientation
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:14:13-49
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:14:13-49
 	android:excludeFromRecents
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:16:13-46
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:16:13-46
 	android:launchMode
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:13:13-43
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:13:13-43
 	android:theme
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:15:13-47
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:12:13-41
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:12:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:17:13-20:29
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		ADDED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
-		INJECTED from /Users/Sinho/PycharmProjects/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		ADDED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sinho/Documents/GitHub/themelab.sample/src/main/AndroidManifest.xml
