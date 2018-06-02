@@ -7,135 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59d4d9d-cea2-4fb5-a8bd-85f0ad2ad024" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/color_thm_action_bar_done_font_color.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/color_thm_action_bar_done_font_color.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/color_thm_chatroom_inputbox_action_button_color.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/color_thm_chatroom_inputbox_action_button_color.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/color_thm_chatroom_send_button_color.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/color_thm_chatroom_send_button_color.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-v21_thm_friends_list_background_brand_new.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-v21_thm_friends_list_background_brand_new.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-v21_thm_general_default_list_item_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-v21_thm_general_default_list_item_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-v21_thm_more_function_item_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-v21_thm_more_function_item_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_mainactivity_n.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_mainactivity_n.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_mainactivity_p.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_mainactivity_p.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_chatroom_button_bg_n.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_chatroom_button_bg_n.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_chatroom_button_bg_p.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_chatroom_button_bg_p.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_passlock_keypad_button_bg_n.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_passlock_keypad_button_bg_n.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_passlock_keypad_button_bg_p.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_passlock_keypad_button_bg_p.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_left_bg_n.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_left_bg_n.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_left_bg_p.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_left_bg_p.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_right_bg_n.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_right_bg_n.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_right_bg_p.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_right_bg_p.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_indicator_p_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_indicator_p_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_action_bar_back_button_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_action_bar_back_button_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_close_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_close_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_close_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_close_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_n.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_n.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_p.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_p.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_plus_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_plus_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_plus_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_plus_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_plusfriend_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_plusfriend_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_plusfriend_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_plusfriend_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_plusfriend_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_plusfriend_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_plusfriend_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_plusfriend_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chat_start_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chat_start_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chat_start_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chat_start_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatlist_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatlist_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_input_bar_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_input_bar_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_media_button_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_media_button_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_me_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_me_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_me_bg_no_tail.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_me_bg_no_tail.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_you_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_you_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_you_bg_no_tail.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_you_bg_no_tail.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_plusfriend_input_bar_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_plusfriend_input_bar_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_directshare_bg_notification.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_directshare_bg_notification.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_friendlist_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_friendlist_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_divider_line.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_divider_line.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_group_profile_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_group_profile_image.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_list_section_header_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_list_section_header_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_profile_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_profile_image.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_push_popup_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_push_popup_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_searchbox_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_searchbox_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_searchbox_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_searchbox_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_image.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_thumbnail_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_thumbnail_image.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_title_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_title_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_toast_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_toast_bg.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_close.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_close.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_open.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_open.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_tab_underline_image.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_tab_underline_image.9.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_1.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_1.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_2.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_2.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_3.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_3.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_4.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_passlock_code_image_checked_4.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_id_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_id_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_qr_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_qr_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_shake_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_shake_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_share_icon.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_share_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_setting_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_setting_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_recommend_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_recommend_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_recommend_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_recommend_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_btn_mainactivity.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_btn_mainactivity.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_add_friend_grid_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_add_friend_grid_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_btn_add_plusfriend.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_btn_add_plusfriend.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_chatroom_button_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_chatroom_button_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_chatroom_send_button_bg_color.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_chatroom_send_button_bg_color.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_close_floating_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_close_floating_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_friends_list_background_brand_new.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_friends_list_background_brand_new.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_default_list_item_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_default_list_item_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_default_list_search_item_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_default_list_search_item_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_push_popup_left_button_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_push_popup_left_button_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_push_popup_right_button_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_general_push_popup_right_button_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_more_function_item_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_more_function_item_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_new_chatroom_start_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_new_chatroom_start_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_new_friend_add_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_new_friend_add_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_notification_list_unread_item_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_notification_list_unread_item_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_channel_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_channel_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_chatting_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_chatting_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_friend_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_friend_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_game_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_game_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_indicator_bg.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_indicator_bg.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_more_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_more_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_recommend_icon.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable_thm_tab_recommend_icon.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_main_activity.xml.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_main_activity.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kakao/talk/theme/ryan/MainActivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/kakao/talk/theme/ryan/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" />
-      <change beforePath="$PROJECT_DIR$/themelab.sample.iml" afterPath="$PROJECT_DIR$/themelab.sample.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,11 +30,11 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -178,21 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -1560,7 +1423,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="933" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1577,7 +1439,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32883435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1603,17 +1465,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/main_activity.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -1638,8 +1505,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/main_activity.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kakao/talk/theme/ryan/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
