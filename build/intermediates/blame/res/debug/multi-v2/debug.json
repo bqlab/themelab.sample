@@ -30,28 +30,11 @@
                         "endOffsets": "137,95"
                     },
                     "to": {
-                        "startLines": "50,53",
+                        "startLines": "50,51",
                         "startColumns": "4,4",
-                        "startOffsets": "3333,3471",
+                        "startOffsets": "3333,3375",
                         "endColumns": "41,44",
-                        "endOffsets": "3370,3511"
-                    }
-                },
-                {
-                    "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,53",
-                        "endOffsets": "92,146"
-                    },
-                    "to": {
-                        "startLines": "51,52",
-                        "startColumns": "4,4",
-                        "startOffsets": "3375,3417",
-                        "endColumns": "41,53",
-                        "endOffsets": "3412,3466"
+                        "endOffsets": "3370,3415"
                     }
                 },
                 {
@@ -82,12 +65,12 @@
                         "endOffsets": "198"
                     },
                     "to": {
-                        "startLines": "54",
+                        "startLines": "52",
                         "startColumns": "4",
-                        "startOffsets": "3516",
-                        "endLines": "56",
+                        "startOffsets": "3420",
+                        "endLines": "54",
                         "endColumns": "12",
-                        "endOffsets": "3659"
+                        "endOffsets": "3563"
                     }
                 },
                 {

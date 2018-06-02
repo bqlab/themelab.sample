@@ -49,8 +49,6 @@
     <color name="thm_recommendlist_description_font_color">#80333333</color>
     <dimen name="thm_main_tab_underline_height">6dp</dimen>
     <string name="app_name">샘플테마</string>
-    <string name="apply">테마 적용하기</string>
-    <string name="install_kakaotalk">카카오톡 설치</string>
     <string name="theme_title">샘플테마</string>
     <style name="noAnimTheme" parent="android:Theme.NoTitleBar">
         <item name="android:windowBackground">@color/colorMain</item>
