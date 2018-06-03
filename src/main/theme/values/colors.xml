@@ -11,7 +11,7 @@
     <!-- 친구 -->
     <color name="thm_general_searchbox_font_color">#222222</color>                      <!-- 검색 텍스트 컬러 -->
     <color name="thm_general_searchbox_bg_color">#B0DEED</color>
-    <color name="default_list_background">#B0DEED</color>                               <!-- 친구리스트 배경 컬러 -->
+    <color name="default_list_background">#ffffff</color>                               <!-- 친구리스트 배경 컬러 -->
     <color name="default_list_selected_background">#FFFFFF</color>                      <!-- 친구리스트 배경 선택 컬러 -->
     <color name="thm_general_default_list_item_title_font_color">#222222</color>        <!-- 친구이름 텍스트 컬러 -->
     <color name="thm_general_default_list_section_header_font_color">#222222</color>    <!-- 섹션텍스트 컬러 -->
