@@ -17,7 +17,7 @@ allprojects {
 apply plugin: 'com.android.application'
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.0.3"
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
 
@@ -26,7 +26,7 @@ android {
 
         versionName "1.0.0"
         versionCode 100
-        applicationId "com.bqlab.themelab.sample"
+        applicationId "com.bqlab.themelab.c0004"
 
         sourceSets {
             main.res.srcDirs += 'src/main/theme'
