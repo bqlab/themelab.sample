@@ -9,57 +9,20 @@
     <list default="true" id="8a802fa2-4957-4a1c-a3db-50124b070ddf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/kakao/talk/theme/ryan/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/kakao/talk/theme/ryan/BuildConfig.java" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/kakao/talk/theme/ryan/BuildConfig.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/kakao/talk/theme/ryan/BuildConfig.class" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/kakao/talk/theme/ryan/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/kakao/talk/theme/ryan/R$string.class" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/kakao/talk/theme/ryan/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/kakao/talk/theme/ryan/R$style.class" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/+Wkl9f4_N6Bi1qGI19GHSutKac0=" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/+Wkl9f4_N6Bi1qGI19GHSutKac0=" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/output.json" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/output.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/manifests/instant-run/debug/output.json" afterPath="$PROJECT_DIR$/build/intermediates/manifests/instant-run/debug/output.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/debug/output.json" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/output.json" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_title_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_title_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_channel_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_chatting_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_n.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_game_icon_p.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/0/com/kakao/talk/theme/ryan/BuildConfig.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/0/com/kakao/talk/theme/ryan/BuildConfig.dex" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/0/com/kakao/talk/theme/ryan/R$string.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/0/com/kakao/talk/theme/ryan/R$string.dex" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/0/com/kakao/talk/theme/ryan/R$style.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/0/com/kakao/talk/theme/ryan/R$style.dex" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_n.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_n.png.flat" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_p.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_more_icon_p.png.flat" />
       <change beforePath="$PROJECT_DIR$/build/outputs/apk/debug/themelab.sample-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/debug/themelab.sample-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_title_bg.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_title_bg.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_bg.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_bg.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_channel_icon_n.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_channel_icon_n.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_channel_icon_p.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_channel_icon_p.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_chatting_icon_n.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_chatting_icon_n.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_chatting_icon_p.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_chatting_icon_p.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_friend_icon_n.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_friend_icon_n.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_friend_icon_p.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_friend_icon_p.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_game_icon_n.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_game_icon_n.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_game_icon_p.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_game_icon_p.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_more_icon_n.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_more_icon_n.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_more_icon_p.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_more_icon_p.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
