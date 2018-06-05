@@ -5,7 +5,7 @@
     <color name="action_bar_done_font_pressed">#333333</color>
     <color name="colorMain">#000000</color>
     <color name="default_list_background">#ffffff</color>
-    <color name="default_list_selected_background">#FFFFFF</color>
+    <color name="default_list_selected_background">#CCCBD1</color>
     <color name="more_function_item_background">#4Dffffff</color>
     <color name="more_function_item_selected_background">#FFFFFF</color>
     <color name="thm_action_bar_title_font_color">#333333</color>
