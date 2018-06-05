@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_chatroom_button_bg.xml.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_chatroom_button_bg.xml"
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_general_default_list_search_item_bg.xml.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_general_default_list_search_item_bg.xml"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/icon.png"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_general_default_list_search_item_bg.xml.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_general_default_list_search_item_bg.xml"
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_chatroom_button_bg.xml.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_chatroom_button_bg.xml"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_tab_indicator_bg.xml.flat",
@@ -24,28 +24,28 @@
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_add_friend_grid_bg.xml"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_more_function_item_bg.xml.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_more_function_item_bg.xml"
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_p.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_add_start_p.png"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_friend_icon_p.png.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_tab_friend_icon_p.png"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_p.png.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_add_start_p.png"
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_more_function_item_bg.xml.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_more_function_item_bg.xml"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_general_push_popup_left_button_bg.xml.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_general_push_popup_left_button_bg.xml"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_image.png.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_general_splash_image.png"
-    },
-    {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_mainactivity_p.9.png.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/res/drawable-xxhdpi/btn_mainactivity_p.9.png"
+    },
+    {
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_image.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_general_splash_image.png"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_recommend_icon_p.png.flat",
@@ -104,12 +104,12 @@
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_tab_chatting_icon_n.png"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_qr_icon.png.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_recommend_menu_find_qr_icon.png"
-    },
-    {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_tab_underline_image.9.png.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_main_tab_underline_image.9.png"
+    },
+    {
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_qr_icon.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_recommend_menu_find_qr_icon.png"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_right_bg_n.9.png.flat",
@@ -132,16 +132,16 @@
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_directshare_bg_notification.9.png"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_open.png.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_main_fab_open.png"
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-hdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-hdpi/thm_friendlist_friend_status_bubble_bg.9.png"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_push_popup_bg.9.png.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_general_push_popup_bg.9.png"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-hdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-hdpi/thm_friendlist_friend_status_bubble_bg.9.png"
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_open.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_main_fab_open.png"
     },
     {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_tab_channel_icon.xml.flat",

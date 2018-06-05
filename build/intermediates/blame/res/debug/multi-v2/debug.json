@@ -21,18 +21,18 @@
                 {
                     "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/values/strings.xml",
                     "from": {
-                        "startLines": "3,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "112,55",
-                        "endColumns": "42,56",
-                        "endOffsets": "150,107"
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "112,-1",
+                        "endColumns": "53,-1",
+                        "endOffsets": "161,-1"
                     },
                     "to": {
                         "startLines": "50,51",
                         "startColumns": "4,4",
-                        "startOffsets": "3333,3376",
-                        "endColumns": "42,56",
-                        "endOffsets": "3371,3428"
+                        "startOffsets": "3333,3387",
+                        "endColumns": "53,56",
+                        "endOffsets": "3382,3439"
                     }
                 },
                 {
@@ -60,10 +60,10 @@
                     "to": {
                         "startLines": "52",
                         "startColumns": "4",
-                        "startOffsets": "3433",
+                        "startOffsets": "3444",
                         "endLines": "54",
                         "endColumns": "12",
-                        "endOffsets": "3576"
+                        "endOffsets": "3587"
                     }
                 },
                 {
