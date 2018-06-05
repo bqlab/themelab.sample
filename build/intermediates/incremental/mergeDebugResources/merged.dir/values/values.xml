@@ -36,7 +36,7 @@
     <color name="thm_friendlist_brand_new_selected_bg">#FFFFFF</color>
     <color name="thm_friendlist_message_font_color">#808080</color>
     <color name="thm_general_default_list_item_title_font_color">#222222</color>
-    <color name="thm_general_default_list_section_header_font_color">#222222</color>
+    <color name="thm_general_default_list_section_header_font_color">#8A8A8A</color>
     <color name="thm_general_push_popup_button_font_color">#FFFFFF</color>
     <color name="thm_general_push_popup_font_color">#2F9ABD</color>
     <color name="thm_general_searchbox_bg_color">#B0DEED</color>
