@@ -156,10 +156,6 @@
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_btn_add_friend_n.9.png"
     },
     {
-        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
-        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_friendlist_friend_status_bubble_bg.9.png"
-    },
-    {
         "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_passlock_keypad_button_bg_p.9.png.flat",
         "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/passlock_keypad_button_bg_p.9.png"
     },
