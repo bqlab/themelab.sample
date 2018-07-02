@@ -15,8 +15,8 @@
     <color name="thm_chatlist_message_time_font_color">#999999</color>
     <color name="thm_chatroom_action_button_normal_color">#000000</color>
     <color name="thm_chatroom_action_button_selected_color">#000000</color>
-    <color name="thm_chatroom_infobox_count_font_color">#faeb00</color>
-    <color name="thm_chatroom_infobox_time_font_color">#333333</color>
+    <color name="thm_chatroom_infobox_count_font_color">#999999</color>
+    <color name="thm_chatroom_infobox_time_font_color">#999999</color>
     <color name="thm_chatroom_input_bar_bg_color">#fafafa</color>
     <color name="thm_chatroom_input_bar_font_color">#000000</color>
     <color name="thm_chatroom_input_bar_hint_font_color">#4D000000</color>
