@@ -28,9 +28,9 @@
     <color name="thm_chatlist_message_time_font_color">#999999</color>
 
     <!-- 채팅방 -->
-    <color name="thm_chatroom_my_message_font_color">#333333</color>                    <!-- 내 메세지 텍스트 컬러 -->
-    <color name="thm_chatroom_other_nickname_font_color">#333333</color>                <!-- 상대방 이름 텍스트 컬러 -->
-    <color name="thm_chatroom_other_message_font_color">#333333</color>                 <!-- 상대방 메세지 텍스트 컬러 -->
+    <color name="thm_chatroom_my_message_font_color">#ffffff</color>                    <!-- 내 메세지 텍스트 컬러 -->
+    <color name="thm_chatroom_other_nickname_font_color">#ffffff</color>                <!-- 상대방 이름 텍스트 컬러 -->
+    <color name="thm_chatroom_other_message_font_color">#000000</color>                 <!-- 상대방 메세지 텍스트 컬러 -->
     <color name="thm_chatroom_infobox_time_font_color">#999999</color>                  <!-- 메세지 시간 정보 텍스트 컬러 -->
     <color name="thm_chatroom_infobox_count_font_color">#999999</color>                 <!-- 언리드 카운트 텍스트 컬러 -->
     <color name="thm_chatroom_send_font_color">#ffffff</color>                          <!-- 전송 버튼 -->
@@ -47,14 +47,14 @@
 
 
     <!-- 암호변경 -->
-    <color name="thm_passlock_title_font_color">#2F9ABD</color>                         <!-- 타이틀, "카카오톡 암호를 입력해 주세요" 텍스트 컬러 -->
+    <color name="thm_passlock_title_font_color">#000000</color>                         <!-- 타이틀, "카카오톡 암호를 입력해 주세요" 텍스트 컬러 -->
 
     <!-- 알림팝업 -->
-    <color name="thm_general_push_popup_font_color">#2F9ABD</color>                     <!-- 이름/메세지 텍스트 컬러 -->
+    <color name="thm_general_push_popup_font_color">#257cf6</color>                     <!-- 이름/메세지 텍스트 컬러 -->
     <color name="thm_general_push_popup_button_font_color">#FFFFFF</color>              <!-- 버튼 텍스트 컬러 -->
 
     <!-- 토스트팝업 -->
-    <color name="thm_general_toast_new_message_font_color">#2F9ABD</color>              <!-- 토스트 이름/메세지 텍스트 컬러 -->
+    <color name="thm_general_toast_new_message_font_color">#000000</color>              <!-- 토스트 이름/메세지 텍스트 컬러 -->
 
     <!-- 전달완료배너 -->
     <color name="thm_directshare_popup_message">#333333</color>                         <!-- 배너 메세지 텍스트 -->
