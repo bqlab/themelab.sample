@@ -40,10 +40,10 @@
     <color name="thm_channel_slot_bg_color">#4Dffffff</color>                           <!-- 섹션별 배경 -->
 
     <!-- 더보기 -->
-    <color name="more_function_item_background">#4Dffffff</color>                       <!-- 그리드 메뉴 배경 컬러 -->
-    <color name="more_function_item_selected_background">#FFFFFF</color>                <!-- 그리드 메뉴 배경 선택 컬러 -->
-    <color name="thm_more_function_item_grid_line_color">#80FFFFFF</color>              <!-- 그리드 메뉴 라인 컬러 -->
-    <color name="thm_more_function_item_font_color">#333333</color>                     <!-- 내이름 & 그리드 메뉴 텍스트 컬러 -->
+    <color name="more_function_item_background">#ffffff</color>                       <!-- 그리드 메뉴 배경 컬러 -->
+    <color name="more_function_item_selected_background">#ffffff</color>                <!-- 그리드 메뉴 배경 선택 컬러 -->
+    <color name="thm_more_function_item_grid_line_color">#f5f3f6</color>              <!-- 그리드 메뉴 라인 컬러 -->
+    <color name="thm_more_function_item_font_color">#0f0d10</color>                     <!-- 내이름 & 그리드 메뉴 텍스트 컬러 -->
 
 
     <!-- 암호변경 -->
@@ -58,13 +58,13 @@
 
     <!-- 전달완료배너 -->
     <color name="thm_directshare_popup_message">#333333</color>                         <!-- 배너 메세지 텍스트 -->
-    <color name="thm_directshare_popup_info">#2F9ABD</color>                            <!-- 배너 버튼 텍스트 -->
+    <color name="thm_directshare_popup_info">#257cf6</color>                            <!-- 배너 버튼 텍스트 -->
 
     <!-- 입력창 개편 이후 테마키 -->
     <color name="thm_chatroom_input_bar_bg_color">#fafafa</color>                       <!-- 입력창 배경 컬러 -->
     <color name="thm_chatroom_tool_button_color">#727272</color>                        <!-- 입력창 익스텐션, 플러스, 펼치기/닫기, 이전 버튼 아이콘 컬러 -->
-    <color name="thm_chatroom_action_button_normal_color">#000000</color>               <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 컬러 -->
-    <color name="thm_chatroom_action_button_selected_color">#000000</color>             <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 selected 컬러 -->
+    <color name="thm_chatroom_action_button_normal_color">#257cf6</color>               <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 컬러 -->
+    <color name="thm_chatroom_action_button_selected_color">#257cf6</color>             <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 selected 컬러 -->
     <color name="thm_chatroom_send_button_normal_color">#FFFFFF</color>                 <!-- 입력창 전송 버튼 아이콘 컬러 -->
     <color name="thm_chatroom_send_button_pressed_color">#FFFFFF</color>                <!-- 입력창 전송 버튼 아이콘 pressed 컬러 -->
     <color name="thm_chatroom_send_button_bg_normal_color">#257cf6</color>              <!-- 입력창 전송 버튼 배경 컬러 -->

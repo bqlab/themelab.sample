@@ -15,19 +15,19 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/+Wkl9f4_N6Bi1qGI19GHSutKac0=" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/+Wkl9f4_N6Bi1qGI19GHSutKac0=" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_bg.png.flat" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_profile_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_profile_image.png.flat" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_setting_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_setting_bg.png.flat" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" />
       <change beforePath="$PROJECT_DIR$/build/outputs/apk/debug/themelab.sample-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/debug/themelab.sample-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_default_profile_image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_setting_bg.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_setting_bg.png" />
       <change beforePath="$PROJECT_DIR$/src/main/theme/values/colors.xml" afterPath="$PROJECT_DIR$/src/main/theme/values/colors.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/values/strings.xml" afterPath="$PROJECT_DIR$/src/main/theme/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,26 +50,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="thm_tab_channel_icon.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/theme-adv/drawable/thm_tab_channel_icon.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+      <file leaf-file-name="colors.xml" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="45" column="59" lean-forward="false" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/theme/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="34" column="63" lean-forward="false" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+            <state relative-caret-position="66">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thm_setting_bg.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_setting_bg.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -82,6 +86,9 @@
       <find>thm_friendlist_message_font_color</find>
       <find>B0DEED</find>
       <find>chatroom</find>
+      <find>thm_chatroom_action_button_normal_color</find>
+      <find>257cf6</find>
+      <find>function</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1204,9 +1211,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/theme/values/strings.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/theme/values/colors.xml" />
+        <option value="$PROJECT_DIR$/src/main/theme/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -1241,6 +1248,11 @@
             <path>
               <item name="themelab.sample" type="1abcf292:AndroidViewProjectNode" />
               <item name="themelab.sample" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="themelab.sample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="themelab.sample" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
             </path>
             <path>
               <item name="themelab.sample" type="1abcf292:AndroidViewProjectNode" />
@@ -1479,24 +1491,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_recommend_menu_find_share_icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatlist_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_recommend_menu_find_id_icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1577,14 +1571,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/chatroom_button_bg_n.9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/push_popup_left_bg_n.9.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1606,21 +1592,6 @@
         <state />
       </provider>
       <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_setting_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_recommend_bg.png">
-      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
@@ -1771,17 +1742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme-adv/drawable/thm_tab_channel_icon.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_default_group_profile_image.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1813,10 +1773,68 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme-adv/drawable/thm_tab_channel_icon.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_passlock_code_image_checked_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_recommend_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/chatroom_button_bg_n.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_setting_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="34" column="63" lean-forward="false" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+        <state relative-caret-position="273">
+          <caret line="45" column="59" lean-forward="false" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding />
         </state>
       </provider>
