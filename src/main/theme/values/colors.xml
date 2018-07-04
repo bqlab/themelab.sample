@@ -29,7 +29,7 @@
 
     <!-- 채팅방 -->
     <color name="thm_chatroom_my_message_font_color">#ffffff</color>                    <!-- 내 메세지 텍스트 컬러 -->
-    <color name="thm_chatroom_other_nickname_font_color">#ffffff</color>                <!-- 상대방 이름 텍스트 컬러 -->
+    <color name="thm_chatroom_other_nickname_font_color">#000000</color>                <!-- 상대방 이름 텍스트 컬러 -->
     <color name="thm_chatroom_other_message_font_color">#000000</color>                 <!-- 상대방 메세지 텍스트 컬러 -->
     <color name="thm_chatroom_infobox_time_font_color">#999999</color>                  <!-- 메세지 시간 정보 텍스트 컬러 -->
     <color name="thm_chatroom_infobox_count_font_color">#999999</color>                 <!-- 언리드 카운트 텍스트 컬러 -->
@@ -73,6 +73,6 @@
     <color name="thm_chatroom_input_bar_hint_font_color">#4D000000</color>              <!-- 입력창 힌트 텍스트 컬러 -->
 
     <!-- 플로팅 버튼 배경색 -->
-    <color name="thm_main_fab_bg">#faeb00</color>
+    <color name="thm_main_fab_bg">#75d371</color>
 
 </resources>
