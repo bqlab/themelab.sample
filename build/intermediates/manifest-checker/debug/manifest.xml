@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bqlab.themelab.sample"
+    package="com.bqlab.themelab.c0006"
     android:versionCode="100"
     android:versionName="1.0.0" >
 
@@ -31,7 +31,7 @@
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.bqlab.themelab.sample.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.bqlab.themelab.c0006.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
