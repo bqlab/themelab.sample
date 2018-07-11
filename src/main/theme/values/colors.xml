@@ -3,7 +3,7 @@
     <!-- 6.0.0 이후 / 고해상도 대응 -->
 
     <!-- 액션바 -->
-    <color name="thm_action_bar_title_font_color">#333333</color>                       <!-- 액션바 타이틀 텍스트 컬러 -->
+    <color name="thm_action_bar_title_font_color">#9eb2e4</color>                       <!-- 액션바 타이틀 텍스트 컬러 -->
     <color name="action_bar_done_font_normal">#333333</color>                           <!-- 타이틀바 thm_action_bar_done_font_color.xml -->
     <color name="action_bar_done_font_pressed">#333333</color>                          <!-- 타이틀바 thm_action_bar_done_font_color.xml -->
     <color name="action_bar_done_font_disabled">#333333</color>                         <!-- 타이틀바 thm_action_bar_done_font_color.xml -->
