@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
+<<<<<<< HEAD
 #Sun Jul 01 13:47:14 KST 2018
 1.base=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 2.path=classes.dex
+=======
+#Tue Jul 03 22:38:59 KST 2018
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
 2.base=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\12

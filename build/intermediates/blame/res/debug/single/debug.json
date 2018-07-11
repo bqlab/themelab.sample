@@ -1,15 +1,25 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable_thm_close_floating_icon.xml.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable\\thm_close_floating_icon.xml"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_general_default_list_search_item_bg.xml.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_general_default_list_search_item_bg.xml"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-hdpi\\thm_friendlist_friend_status_bubble_bg.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_btn_add_friend_plus_n.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_btn_add_friend_plus_n.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_chatroom_button_bg.xml.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_chatroom_button_bg.xml"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_passlock_code_image.png.flat",
@@ -24,22 +34,33 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_tab_friend_icon_p.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_btn_add_friend_n.9.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_btn_add_friend_n.9.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_add_start_p.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_add_start_p.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_directshare_bg_notification.9.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_directshare_bg_notification.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\color_thm_chatroom_send_button_color.xml.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\color\\thm_chatroom_send_button_color.xml"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable_thm_more_function_item_bg.xml.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme-adv/drawable/thm_more_function_item_bg.xml"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_chatroom_message_bubble_me_bg.9.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_chatroom_message_bubble_me_bg.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_btn_plusfriend_p.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_btn_plusfriend_p.png"
     },
@@ -50,6 +71,18 @@
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_general_splash_image.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_general_splash_image.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_mainactivity_p.9.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/res/drawable-xxhdpi/btn_mainactivity_p.9.png"
+    },
+    {
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_splash_image.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_general_splash_image.png"
+    },
+    {
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_tab_recommend_icon_p.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_tab_recommend_icon_p.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_chatroom_message_bubble_you_bg.9.png.flat",
@@ -104,6 +137,7 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable\\thm_general_push_popup_right_button_bg.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_setting_bg.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_setting_bg.png"
     },
@@ -114,6 +148,18 @@
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_general_toast_bg.9.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_general_toast_bg.9.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_tab_underline_image.9.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_main_tab_underline_image.9.png"
+    },
+    {
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_recommend_menu_find_qr_icon.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_recommend_menu_find_qr_icon.png"
+    },
+    {
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_push_popup_right_bg_n.9.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/push_popup_right_bg_n.9.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable_thm_tab_indicator_bg.xml.flat",
@@ -132,16 +178,26 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_main_fab_open.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_btn_plusfriend_n.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_btn_plusfriend_n.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-hdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-hdpi/thm_friendlist_friend_status_bubble_bg.9.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable_thm_more_function_item_bg.xml.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable\\thm_more_function_item_bg.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable_thm_tab_more_icon.xml.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable\\thm_tab_more_icon.xml"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_main_fab_open.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_main_fab_open.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_tab_channel_icon_p.png.flat",
@@ -156,12 +212,17 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable-v21\\thm_general_default_list_item_bg.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable_thm_notification_list_unread_item_bg.xml.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable\\thm_notification_list_unread_item_bg.xml"
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_general_splash_thumbnail_image.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_general_splash_thumbnail_image.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_passlock_keypad_button_bg_p.9.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/passlock_keypad_button_bg_p.9.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_friendlist_friend_status_bubble_bg.9.png.flat",
@@ -192,12 +253,17 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_general_default_list_section_header_bg.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_tab_recommend_icon_n.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_tab_recommend_icon_n.png"
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_tab_chatting_icon_n.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_tab_chatting_icon_n.png"
+=======
+        "merged": "/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_btn_add_friend_plus_p.png.flat",
+        "source": "/Users/Sinho/Documents/GitHub/themelab.sample/src/main/theme/drawable-xxhdpi/thm_btn_add_friend_plus_p.png"
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chatroom_button_bg_p.9.png.flat",

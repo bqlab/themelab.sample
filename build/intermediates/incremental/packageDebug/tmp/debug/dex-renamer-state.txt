@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 #Sun Jul 01 13:47:14 KST 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
+=======
+#Tue Jul 03 22:38:59 KST 2018
+base.0=/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/transforms/dexMerger/debug/0
+>>>>>>> 4fc71dd18ddb0865c502f6ed7f85913b97e6cc60
 path.0=classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
