@@ -24,8 +24,8 @@
     <color name="thm_add_friend_font_color">#FFFFFF</color>                             <!-- 친구추가 텍스트 컬러 -->
 
     <!-- 채팅 -->
-    <color name="thm_chatlist_message_font_color">#CC333333</color>                     <!-- 최근메세지 텍스트컬러-->
-    <color name="thm_chatlist_message_time_font_color">#CC333333</color>
+    <color name="thm_chatlist_message_font_color">#747474</color>                     <!-- 최근메세지 텍스트컬러-->
+    <color name="thm_chatlist_message_time_font_color">#a0a0a0</color>
 
     <!-- 채팅방 -->
     <color name="thm_chatroom_my_message_font_color">#333333</color>                    <!-- 내 메세지 텍스트 컬러 -->

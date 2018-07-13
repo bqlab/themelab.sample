@@ -11,8 +11,8 @@
     <color name="thm_action_bar_title_font_color">#9eb2e4</color>
     <color name="thm_add_friend_font_color">#FFFFFF</color>
     <color name="thm_channel_slot_bg_color">#4Dffffff</color>
-    <color name="thm_chatlist_message_font_color">#CC333333</color>
-    <color name="thm_chatlist_message_time_font_color">#CC333333</color>
+    <color name="thm_chatlist_message_font_color">#747474</color>
+    <color name="thm_chatlist_message_time_font_color">#a0a0a0</color>
     <color name="thm_chatroom_action_button_normal_color">#949BA3</color>
     <color name="thm_chatroom_action_button_selected_color">#66717d</color>
     <color name="thm_chatroom_infobox_count_font_color">#faeb00</color>
