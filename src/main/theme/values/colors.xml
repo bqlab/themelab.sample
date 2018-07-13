@@ -73,6 +73,6 @@
     <color name="thm_chatroom_input_bar_hint_font_color">#4D000000</color>              <!-- 입력창 힌트 텍스트 컬러 -->
 
     <!-- 플로팅 버튼 배경색 -->
-    <color name="thm_main_fab_bg">#faeb00</color>
+    <color name="thm_main_fab_bg">#4167b2</color>
 
 </resources>
