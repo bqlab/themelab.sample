@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.1.3"
-    timestamp="1531497722415"
+    timestamp="1531499144935"
     token="-4355518586692854198"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -76,7 +76,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1531497722415"
+        timestamp="1531499144935"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\instant-run-apk\debug\themelab.sample-debug.apk"

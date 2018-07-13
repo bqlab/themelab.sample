@@ -13,10 +13,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/debug.json" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/build/intermediates/build-info/debug/build-info.xml" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/g8vzV+CglW_TAWmkE0wqFOIlrIQ=" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/g8vzV+CglW_TAWmkE0wqFOIlrIQ=" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" />
@@ -24,8 +26,12 @@
       <change beforePath="$PROJECT_DIR$/build/intermediates/instant-run-apk/debug/themelab.sample-debug.apk" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-apk/debug/themelab.sample-debug.apk" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_profile_image.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_general_default_profile_image.png.flat" />
-      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_default_profile_image.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_default_profile_image.png" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_bg.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_bg.png.flat" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_me_bg.9.png.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_thm_chatroom_message_bubble_me_bg.9.png.flat" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg.9.png" afterPath="$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg.9.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/theme/values/colors.xml" afterPath="$PROJECT_DIR$/src/main/theme/values/colors.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,10 +57,27 @@
       <file leaf-file-name="colors.xml" pinned="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+            <state relative-caret-position="660">
+              <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thm_chatroom_bg.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thm_chatroom_message_bubble_me_bg.9.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg.9.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+          <provider editor-type-id="ninepatcheditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -64,6 +87,8 @@
     <findStrings>
       <find>main</find>
       <find>chat</find>
+      <find>chatlist</find>
+      <find>f5fcff</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1256,8 +1281,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MyFamily\Documents\GitHub\themelab.sample\src\main\theme\drawable-xxhdpi" />
       <recent name="C:\Users\MyFamily\Documents\GitHub\themelab.sample\src\main\theme-adv\drawable" />
+      <recent name="C:\Users\MyFamily\Documents\GitHub\themelab.sample\src\main\theme\drawable-xxhdpi" />
       <recent name="C:\Users\MyFamily\Documents\GitHub\themelab.sample\src\main\res\drawable" />
     </key>
   </component>
@@ -1427,7 +1452,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1577,11 +1601,6 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png">
-      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
@@ -1792,14 +1811,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg.9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -1834,10 +1845,23 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg.9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+      <provider editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+        <state relative-caret-position="660">
+          <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
           <folding />
         </state>
       </provider>
