@@ -44,12 +44,12 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme-adv\\drawable-v21\\thm_friends_list_background_brand_new.xml"
     },
     {
-        "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_chatroom_message_bubble_you_bg.9.png.flat",
-        "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_chatroom_message_bubble_you_bg.9.png"
-    },
-    {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_general_splash_image.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_general_splash_image.png"
+    },
+    {
+        "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_chatroom_message_bubble_you_bg.9.png.flat",
+        "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_chatroom_message_bubble_you_bg.9.png"
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_push_popup_right_bg_n.9.png.flat",
@@ -220,12 +220,12 @@
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_passlock_code_image_checked_3.png"
     },
     {
-        "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_chat_start_n.png.flat",
-        "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_chat_start_n.png"
-    },
-    {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_action_bar_back_button_icon.png.flat",
         "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_action_bar_back_button_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_chat_start_n.png.flat",
+        "source": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\src\\main\\theme\\drawable-xxhdpi\\thm_chat_start_n.png"
     },
     {
         "merged": "C:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thm_recommend_menu_find_share_icon.png.flat",

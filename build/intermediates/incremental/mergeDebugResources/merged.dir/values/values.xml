@@ -20,7 +20,7 @@
     <color name="thm_chatroom_input_bar_bg_color">#FFFFFF</color>
     <color name="thm_chatroom_input_bar_font_color">#000000</color>
     <color name="thm_chatroom_input_bar_hint_font_color">#cccccc</color>
-    <color name="thm_chatroom_inputbox_button_tint_color">#0088f7</color>
+    <color name="thm_chatroom_inputbox_button_tint_color">#ffffff</color>
     <color name="thm_chatroom_my_message_font_color">#ffffff</color>
     <color name="thm_chatroom_other_message_font_color">#000000</color>
     <color name="thm_chatroom_other_nickname_font_color">#000000</color>
@@ -28,7 +28,7 @@
     <color name="thm_chatroom_send_button_bg_pressed_color">#ebebeb</color>
     <color name="thm_chatroom_send_button_normal_color">#0088f7</color>
     <color name="thm_chatroom_send_button_pressed_color">#0088f7</color>
-    <color name="thm_chatroom_send_font_color">#0088f7</color>
+    <color name="thm_chatroom_send_font_color">#ffffff</color>
     <color name="thm_chatroom_tool_button_color">#9d9d9d</color>
     <color name="thm_directshare_popup_info">#2F9ABD</color>
     <color name="thm_directshare_popup_message">#333333</color>

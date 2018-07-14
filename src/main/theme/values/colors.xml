@@ -33,8 +33,8 @@
     <color name="thm_chatroom_other_message_font_color">#000000</color>                 <!-- 상대방 메세지 텍스트 컬러 -->
     <color name="thm_chatroom_infobox_time_font_color">#7f7f7f</color>                  <!-- 메세지 시간 정보 텍스트 컬러 -->
     <color name="thm_chatroom_infobox_count_font_color">#0286ff</color>                 <!-- 언리드 카운트 텍스트 컬러 -->
-    <color name="thm_chatroom_send_font_color">#0088f7</color>                          <!-- 전송 버튼 -->
-    <color name="thm_chatroom_inputbox_button_tint_color">#0088f7</color>               <!-- 입력 텍스트 컬러, 버튼 tint-color -->
+    <color name="thm_chatroom_send_font_color">#ffffff</color>                          <!-- 전송 버튼 -->
+    <color name="thm_chatroom_inputbox_button_tint_color">#ffffff</color>               <!-- 입력 텍스트 컬러, 버튼 tint-color -->
 
     <!-- 채널 -->
     <color name="thm_channel_slot_bg_color">#4Dffffff</color>                           <!-- 섹션별 배경 -->
