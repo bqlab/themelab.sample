@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHub-themelab.sample.iml" filepath="$PROJECT_DIR$/GitHub-themelab.sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/themelab.sample.iml" filepath="$PROJECT_DIR$/themelab.sample.iml" />
     </modules>
   </component>
