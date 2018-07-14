@@ -3,7 +3,7 @@
     <!-- 6.0.0 이후 / 고해상도 대응 -->
 
     <!-- 액션바 -->
-    <color name="thm_action_bar_title_font_color">#333333</color>                       <!-- 액션바 타이틀 텍스트 컬러 -->
+    <color name="thm_action_bar_title_font_color">#9eb2e4</color>                       <!-- 액션바 타이틀 텍스트 컬러 -->
     <color name="action_bar_done_font_normal">#333333</color>                           <!-- 타이틀바 thm_action_bar_done_font_color.xml -->
     <color name="action_bar_done_font_pressed">#333333</color>                          <!-- 타이틀바 thm_action_bar_done_font_color.xml -->
     <color name="action_bar_done_font_disabled">#333333</color>                         <!-- 타이틀바 thm_action_bar_done_font_color.xml -->
@@ -11,30 +11,30 @@
     <!-- 친구 -->
     <color name="thm_general_searchbox_font_color">#222222</color>                      <!-- 검색 텍스트 컬러 -->
     <color name="thm_general_searchbox_bg_color">#B0DEED</color>
-    <color name="default_list_background">#B0DEED</color>                               <!-- 친구리스트 배경 컬러 -->
-    <color name="default_list_selected_background">#FFFFFF</color>                      <!-- 친구리스트 배경 선택 컬러 -->
-    <color name="thm_general_default_list_item_title_font_color">#222222</color>        <!-- 친구이름 텍스트 컬러 -->
-    <color name="thm_general_default_list_section_header_font_color">#222222</color>    <!-- 섹션텍스트 컬러 -->
-    <color name="thm_friendlist_message_font_color">#808080</color>                     <!-- 상태메세지 텍스트 컬러 -->
-    <color name="thm_friendlist_brand_new_bg">#B3FFFFFF</color>                         <!-- 새로운 친구 배경 -->
-    <color name="thm_friendlist_brand_new_selected_bg">#FFFFFF</color>                  <!-- 새로운 친구 선택시 배경 -->
+    <color name="default_list_background">#ffffff</color>                               <!-- 친구리스트 배경 컬러 -->
+    <color name="default_list_selected_background">#f5f5f5</color>                      <!-- 친구리스트 배경 선택 컬러 -->
+    <color name="thm_general_default_list_item_title_font_color">#20232a</color>        <!-- 친구이름 텍스트 컬러 -->
+    <color name="thm_general_default_list_section_header_font_color">#8f939e</color>    <!-- 섹션텍스트 컬러 -->
+    <color name="thm_friendlist_message_font_color">#18191b</color>                     <!-- 상태메세지 텍스트 컬러 -->
+    <color name="thm_friendlist_brand_new_bg">#ffffff</color>                         <!-- 새로운 친구 배경 -->
+    <color name="thm_friendlist_brand_new_selected_bg">#ffffff</color>                  <!-- 새로운 친구 선택시 배경 -->
 
     <!-- 추천친구 (글로벌 탭에서만 적용) / 6.3.0 부터 -->
     <color name="thm_recommendlist_description_font_color">#80333333</color>            <!-- 플러스친구 상태메시지 컬러 -->
     <color name="thm_add_friend_font_color">#FFFFFF</color>                             <!-- 친구추가 텍스트 컬러 -->
 
     <!-- 채팅 -->
-    <color name="thm_chatlist_message_font_color">#CC333333</color>                     <!-- 최근메세지 텍스트컬러-->
-    <color name="thm_chatlist_message_time_font_color">#CC333333</color>
+    <color name="thm_chatlist_message_font_color">#747474</color>                     <!-- 최근메세지 텍스트컬러-->
+    <color name="thm_chatlist_message_time_font_color">#a0a0a0</color>
 
     <!-- 채팅방 -->
-    <color name="thm_chatroom_my_message_font_color">#333333</color>                    <!-- 내 메세지 텍스트 컬러 -->
-    <color name="thm_chatroom_other_nickname_font_color">#333333</color>                <!-- 상대방 이름 텍스트 컬러 -->
-    <color name="thm_chatroom_other_message_font_color">#333333</color>                 <!-- 상대방 메세지 텍스트 컬러 -->
-    <color name="thm_chatroom_infobox_time_font_color">#333333</color>                  <!-- 메세지 시간 정보 텍스트 컬러 -->
-    <color name="thm_chatroom_infobox_count_font_color">#faeb00</color>                 <!-- 언리드 카운트 텍스트 컬러 -->
-    <color name="thm_chatroom_send_font_color">#ffffff</color>                          <!-- 전송 버튼 -->
-    <color name="thm_chatroom_inputbox_button_tint_color">#000000</color>               <!-- 입력 텍스트 컬러, 버튼 tint-color -->
+    <color name="thm_chatroom_my_message_font_color">#ffffff</color>                    <!-- 내 메세지 텍스트 컬러 -->
+    <color name="thm_chatroom_other_nickname_font_color">#000000</color>                <!-- 상대방 이름 텍스트 컬러 -->
+    <color name="thm_chatroom_other_message_font_color">#000000</color>                 <!-- 상대방 메세지 텍스트 컬러 -->
+    <color name="thm_chatroom_infobox_time_font_color">#7f7f7f</color>                  <!-- 메세지 시간 정보 텍스트 컬러 -->
+    <color name="thm_chatroom_infobox_count_font_color">#0286ff</color>                 <!-- 언리드 카운트 텍스트 컬러 -->
+    <color name="thm_chatroom_send_font_color">#0088f7</color>                          <!-- 전송 버튼 -->
+    <color name="thm_chatroom_inputbox_button_tint_color">#0088f7</color>               <!-- 입력 텍스트 컬러, 버튼 tint-color -->
 
     <!-- 채널 -->
     <color name="thm_channel_slot_bg_color">#4Dffffff</color>                           <!-- 섹션별 배경 -->
@@ -61,18 +61,18 @@
     <color name="thm_directshare_popup_info">#2F9ABD</color>                            <!-- 배너 버튼 텍스트 -->
 
     <!-- 입력창 개편 이후 테마키 -->
-    <color name="thm_chatroom_input_bar_bg_color">#F5FCFF</color>                       <!-- 입력창 배경 컬러 -->
-    <color name="thm_chatroom_tool_button_color">#7FD3ED</color>                        <!-- 입력창 익스텐션, 플러스, 펼치기/닫기, 이전 버튼 아이콘 컬러 -->
-    <color name="thm_chatroom_action_button_normal_color">#949BA3</color>               <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 컬러 -->
-    <color name="thm_chatroom_action_button_selected_color">#66717d</color>             <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 selected 컬러 -->
-    <color name="thm_chatroom_send_button_normal_color">#FFFFFF</color>                 <!-- 입력창 전송 버튼 아이콘 컬러 -->
-    <color name="thm_chatroom_send_button_pressed_color">#FFFFFF</color>                <!-- 입력창 전송 버튼 아이콘 pressed 컬러 -->
-    <color name="thm_chatroom_send_button_bg_normal_color">#7FD3ED</color>              <!-- 입력창 전송 버튼 배경 컬러 -->
-    <color name="thm_chatroom_send_button_bg_pressed_color">#6DBFD8</color>             <!-- 입력창 전송 버튼 배경 pressed 컬러 -->
+    <color name="thm_chatroom_input_bar_bg_color">#FFFFFF</color>                       <!-- 입력창 배경 컬러 -->
+    <color name="thm_chatroom_tool_button_color">#9d9d9d</color>                        <!-- 입력창 익스텐션, 플러스, 펼치기/닫기, 이전 버튼 아이콘 컬러 -->
+    <color name="thm_chatroom_action_button_normal_color">#cccccc</color>               <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 컬러 -->
+    <color name="thm_chatroom_action_button_selected_color">#9d9d9d</color>             <!-- 입력창 이모티콘, 샾검색, 워키토키, 전화 버튼 아이콘 selected 컬러 -->
+    <color name="thm_chatroom_send_button_normal_color">#0088f7</color>                 <!-- 입력창 전송 버튼 아이콘 컬러 -->
+    <color name="thm_chatroom_send_button_pressed_color">#0088f7</color>                <!-- 입력창 전송 버튼 아이콘 pressed 컬러 -->
+    <color name="thm_chatroom_send_button_bg_normal_color">#ffffff</color>              <!-- 입력창 전송 버튼 배경 컬러 -->
+    <color name="thm_chatroom_send_button_bg_pressed_color">#ebebeb</color>             <!-- 입력창 전송 버튼 배경 pressed 컬러 -->
     <color name="thm_chatroom_input_bar_font_color">#000000</color>                     <!-- 입력창 텍스트 컬러 -->
-    <color name="thm_chatroom_input_bar_hint_font_color">#4D000000</color>              <!-- 입력창 힌트 텍스트 컬러 -->
+    <color name="thm_chatroom_input_bar_hint_font_color">#cccccc</color>              <!-- 입력창 힌트 텍스트 컬러 -->
 
     <!-- 플로팅 버튼 배경색 -->
-    <color name="thm_main_fab_bg">#faeb00</color>
+    <color name="thm_main_fab_bg">#4167b2</color>
 
 </resources>
