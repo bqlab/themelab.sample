@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#Sat Jul 14 15:49:06 KST 2018
-=======
-#Sat Jul 14 01:25:46 KST 2018
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-=======
-#Sat Jul 14 01:25:46 KST 2018
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+#Sat Jul 14 16:18:45 KST 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
@@ -15,7 +7,7 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\30
-base.2=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\29
-base.1=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\28
-base.0=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+base.3=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.2=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.1=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.0=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\14

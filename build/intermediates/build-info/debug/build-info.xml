@@ -6,15 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.1.3"
-<<<<<<< HEAD
-<<<<<<< HEAD
-    timestamp="1531550991617"
-=======
-    timestamp="1531499144935"
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-=======
-    timestamp="1531499144935"
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+    timestamp="1531553470150"
     token="-4355518586692854198"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -31,58 +23,13 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-<<<<<<< HEAD
-<<<<<<< HEAD
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-=======
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-=======
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-        location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\instant-run-apk\debug\themelab.sample-debug.apk"
-        type="SPLIT_MAIN" />
-
     <build
         build-mode="FULL"
-<<<<<<< HEAD
-<<<<<<< HEAD
-        timestamp="1531550991617"
-=======
-        timestamp="1531494400548"
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-=======
-        timestamp="1531494400548"
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+        timestamp="1531552721021"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\instant-run-apk\debug\themelab.sample-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
@@ -113,35 +60,10 @@
         <artifact
             location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\instant-run-apk\debug\themelab.sample-debug.apk"
-            type="SPLIT_MAIN" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1531495542805"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1531499144935"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\MyFamily\Documents\GitHub\themelab.sample\build\intermediates\instant-run-apk\debug\themelab.sample-debug.apk"
-            type="SPLIT_MAIN" />
-<<<<<<< HEAD
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-=======
->>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
-    </build>
+        timestamp="1531553470150"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
