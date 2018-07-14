@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jul 14 16:02:48 KST 2018
+#Sat Jul 14 16:03:18 KST 2018
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
