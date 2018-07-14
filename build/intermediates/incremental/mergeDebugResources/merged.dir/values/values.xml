@@ -24,7 +24,7 @@
     <color name="thm_chatroom_my_message_font_color">#ffffff</color>
     <color name="thm_chatroom_other_message_font_color">#000000</color>
     <color name="thm_chatroom_other_nickname_font_color">#000000</color>
-    <color name="thm_chatroom_send_button_bg_normal_color">#257cf6</color>
+    <color name="thm_chatroom_send_button_bg_normal_color">#ffffff</color>
     <color name="thm_chatroom_send_button_bg_pressed_color">#1e5aaf</color>
     <color name="thm_chatroom_send_button_normal_color">#FFFFFF</color>
     <color name="thm_chatroom_send_button_pressed_color">#FFFFFF</color>
