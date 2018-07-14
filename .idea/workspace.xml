@@ -62,8 +62,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/theme/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="396">
               <caret line="38" column="15" lean-forward="false" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+=======
+            <state relative-caret-position="660">
+              <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
 =======
             <state relative-caret-position="660">
               <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
@@ -74,6 +79,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kakao/talk/theme/ryan/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,6 +88,8 @@
               <folding />
             </state>
 =======
+=======
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
       <file leaf-file-name="thm_chatroom_bg.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png">
           <provider selected="true" editor-type-id="images">
@@ -1266,6 +1274,9 @@
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+<<<<<<< HEAD
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+=======
 >>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
       <pane id="AndroidView">
         <subPane>
@@ -1307,7 +1318,11 @@
               <item name="themelab.sample" type="1abcf292:AndroidViewProjectNode" />
               <item name="themelab.sample" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
+<<<<<<< HEAD
               <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+=======
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
 =======
               <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
 >>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
@@ -1323,8 +1338,11 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="ProjectPane" />
       <pane id="Scope" />
+=======
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
 =======
 >>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
     </panes>
@@ -1517,8 +1535,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
 =======
+=======
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
 >>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
@@ -1586,7 +1607,10 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_tab_game_icon_n.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1653,6 +1677,9 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+=======
 >>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_title_bg.png">
       <provider selected="true" editor-type-id="images">
@@ -1865,6 +1892,7 @@
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
+<<<<<<< HEAD
         <state />
       </provider>
     </entry>
@@ -1894,10 +1922,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_main_tab_underline_image.9.png">
       <provider selected="true" editor-type-id="images">
+=======
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
         <state />
       </provider>
 <<<<<<< HEAD
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/theme/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1921,6 +1952,15 @@
           <folding />
         </state>
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_general_default_divider_line.9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+      <provider editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme-adv/color/thm_chatroom_inputbox_action_button_color.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1938,6 +1978,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/main_activity.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -1955,16 +1996,27 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg_no_tail.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_main_fab_open.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_main_tab_underline_image.9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+      </provider>
+      <provider editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_main_fab_close.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1977,10 +2029,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_main_fab_close.png">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatlist_bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_bg.png">
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatlist_bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2007,12 +2068,25 @@
           <caret line="38" column="15" lean-forward="false" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
           <folding />
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/theme/drawable-xxhdpi/thm_chatroom_message_bubble_me_bg.9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+      <provider editor-type-id="ninepatcheditor">
+        <state />
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kakao/talk/theme/ryan/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="440">
           <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+=======
+        <state relative-caret-position="660">
+          <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+>>>>>>> parent of 3604f4c... 챗룸 전송버튼 빼고 다 끝
 =======
         <state relative-caret-position="660">
           <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
