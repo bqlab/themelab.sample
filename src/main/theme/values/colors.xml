@@ -40,14 +40,14 @@
     <color name="thm_channel_slot_bg_color">#4Dffffff</color>                           <!-- 섹션별 배경 -->
 
     <!-- 더보기 -->
-    <color name="more_function_item_background">#4Dffffff</color>                       <!-- 그리드 메뉴 배경 컬러 -->
-    <color name="more_function_item_selected_background">#FFFFFF</color>                <!-- 그리드 메뉴 배경 선택 컬러 -->
-    <color name="thm_more_function_item_grid_line_color">#80FFFFFF</color>              <!-- 그리드 메뉴 라인 컬러 -->
-    <color name="thm_more_function_item_font_color">#333333</color>                     <!-- 내이름 & 그리드 메뉴 텍스트 컬러 -->
+    <color name="more_function_item_background">#ffffff</color>                       <!-- 그리드 메뉴 배경 컬러 -->
+    <color name="more_function_item_selected_background">#f5f5f5</color>                <!-- 그리드 메뉴 배경 선택 컬러 -->
+    <color name="thm_more_function_item_grid_line_color">#EAEAEA</color>              <!-- 그리드 메뉴 라인 컬러 -->
+    <color name="thm_more_function_item_font_color">#202023</color>                     <!-- 내이름 & 그리드 메뉴 텍스트 컬러 -->
 
 
     <!-- 암호변경 -->
-    <color name="thm_passlock_title_font_color">#2F9ABD</color>                         <!-- 타이틀, "카카오톡 암호를 입력해 주세요" 텍스트 컬러 -->
+    <color name="thm_passlock_title_font_color">#ffffff</color>                         <!-- 타이틀, "카카오톡 암호를 입력해 주세요" 텍스트 컬러 -->
 
     <!-- 알림팝업 -->
     <color name="thm_general_push_popup_font_color">#2F9ABD</color>                     <!-- 이름/메세지 텍스트 컬러 -->
