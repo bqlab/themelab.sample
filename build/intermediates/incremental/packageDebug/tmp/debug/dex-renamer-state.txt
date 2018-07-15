@@ -1,4 +1,4 @@
-#Sun Jul 15 21:09:27 KST 2018
+#Sun Jul 15 21:33:47 KST 2018
 base.0=/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/transforms/dexMerger/debug/16
 path.0=classes.dex
 renamed.0=classes.dex
