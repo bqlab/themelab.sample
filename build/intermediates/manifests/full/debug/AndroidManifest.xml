@@ -14,8 +14,7 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="@string/app_name"
-        android:testOnly="true" >
+        android:label="@string/app_name" >
         <activity
             android:name="com.kakao.talk.theme.ryan.MainActivity"
             android:excludeFromRecents="true"
