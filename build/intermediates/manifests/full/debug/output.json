@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":100,"versionName":"1.0.0","enabled":true,"outputFile":"themelab.sample-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.bqlab.themelab.sample.c0006","split":"","minSdkVersion":"7"}}]
+=======
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":100,"versionName":"1.0.0","enabled":true,"outputFile":"themelab.sample-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.bqlab.themelab.c0006","split":"","minSdkVersion":"7"}}]
+>>>>>>> a015128c11662591f69687ffdd31369b308d262c

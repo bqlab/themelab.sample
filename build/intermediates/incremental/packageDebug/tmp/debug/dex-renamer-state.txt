@@ -1,13 +1,11 @@
+<<<<<<< HEAD
 #Sat Jul 14 16:51:03 KST 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
+=======
+#Sun Jul 15 21:36:25 KST 2018
+base.0=/Users/Sinho/Documents/GitHub/themelab.sample/build/intermediates/transforms/dexMerger/debug/16
+>>>>>>> a015128c11662591f69687ffdd31369b308d262c
 path.0=classes.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.2=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.1=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.0=C\:\\Users\\MyFamily\\Documents\\GitHub\\themelab.sample\\build\\intermediates\\transforms\\dexMerger\\debug\\14
